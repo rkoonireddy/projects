@@ -1,8 +1,5 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# Marketing Experiments FS22
-# Analyzing experimental data
-# Prof. Dr. Anne Scherer & Claudia Wenzel
-
+# Marketing Experiments
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
